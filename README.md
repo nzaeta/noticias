@@ -15,4 +15,3 @@ Aplicación web de noticias con diferentes permisos según el rol:
 - MySQL, JPA
 
 
-PENDIENTE: LINK A VIDEO MOSTRANDO LA WEB
